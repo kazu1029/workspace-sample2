@@ -1,0 +1,4 @@
+github.com/kazu1029/workspace-sample1/modules/module1 v0.0.2 h1:ZibFL6V80K1csLd8yPFdsfmAhdJdR71eu0Y6I3XW4nY=
+github.com/kazu1029/workspace-sample1/modules/module1 v0.0.2/go.mod h1:xlILjO2uss+5IzWo6Vmr751077+CNrgEDJHsenHTiZw=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.3 h1:9tMxA0E39IclWx+T8omnWYpQ311QK4FctuwhProHOLY=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.3/go.mod h1:O2UrwTktJoYaQQ8in963tOJ5aDXZGS5j5ZiM97Kuvm0=
