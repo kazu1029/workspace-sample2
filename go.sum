@@ -1,4 +1,10 @@
+github.com/kazu1029/workspace-sample1 v0.0.1 h1:YQ+kUE8qlQL5vZX5Q4/49lmEICJ5W07bPXx125+mFiU=
+github.com/kazu1029/workspace-sample1 v0.0.1/go.mod h1:1gz5vDEWIKz8pyxcjriDbdGAG1Hiv0+VKtk+8EfgC1Q=
+github.com/kazu1029/workspace-sample1 v0.0.2 h1:SJ7Ftkk8iLBZohGf0WR4gGj6jsaEAuQscC/hBtYRz8I=
+github.com/kazu1029/workspace-sample1 v0.0.2/go.mod h1:1gz5vDEWIKz8pyxcjriDbdGAG1Hiv0+VKtk+8EfgC1Q=
 github.com/kazu1029/workspace-sample1/modules/module1 v0.0.2 h1:ZibFL6V80K1csLd8yPFdsfmAhdJdR71eu0Y6I3XW4nY=
 github.com/kazu1029/workspace-sample1/modules/module1 v0.0.2/go.mod h1:xlILjO2uss+5IzWo6Vmr751077+CNrgEDJHsenHTiZw=
-github.com/kazu1029/workspace-sample1/modules/module2 v0.0.3 h1:9tMxA0E39IclWx+T8omnWYpQ311QK4FctuwhProHOLY=
-github.com/kazu1029/workspace-sample1/modules/module2 v0.0.3/go.mod h1:O2UrwTktJoYaQQ8in963tOJ5aDXZGS5j5ZiM97Kuvm0=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.5 h1:/S674nWJgwRsOiiNp+UYoapdT1mzt+x9QwBOdpncIxc=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.5/go.mod h1:OE2CEBAzCYpHo2CyKmIeHucIDWHrZ3l7QSgUFOFuxlE=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.6 h1:n4+Qq/9jImDsgFWeWeUMgWQ87FxSCm0FyztGUdAMAZo=
+github.com/kazu1029/workspace-sample1/modules/module2 v0.0.6/go.mod h1:4MJSzCN4vcJyrpwKdisZ/ADqElU/IuvPddhcNoA4i2M=
